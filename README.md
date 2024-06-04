@@ -78,7 +78,7 @@ Colorizing black and white images involves using a deep learning model to predic
 
  Here are some example results of the colorization process:
 
- ![Black & white to colored image](URL)
+ ![Black & white to colored image](https://github.com/mohdamaan069/b-w_Image_Colorization/blob/main/imge.png)
 
 
  # Contributing
