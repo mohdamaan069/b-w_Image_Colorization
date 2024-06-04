@@ -80,6 +80,8 @@ Colorizing black and white images involves using a deep learning model to predic
 
  ![Black & white to colored image](https://github.com/mohdamaan069/b-w_Image_Colorization/blob/main/imge.png)
 
+ ![Black & white to colored image](https://github.com/mohdamaan069/b-w_Image_Colorization/blob/main/imge1.png)
+
 
  # Contributing
 
