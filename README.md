@@ -46,7 +46,7 @@ Colorizing black and white images involves using a deep learning model to predic
    - [colorization_release_v2.caffemodel](https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy)
    - [pts_in_hull.npy](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
 
-3. **Organize the files and folders**
+3. **Organize the Files and Folders**
    
      - Put all these three files into the folder named "model".
      - Put colorize.py file outside the model folder.
@@ -66,7 +66,7 @@ Colorizing black and white images involves using a deep learning model to predic
    To colorize a black and white image, use the following command:
 
    ```bash
-   python colorize.py --image path/to/your/image.jpg
+   python colorize.py --image images/filename.jpg
 
  Replace path/to/your/image.jpg with the path to your black and white image.
 
