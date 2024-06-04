@@ -45,6 +45,12 @@ Colorizing black and white images involves using a deep learning model to predic
    - [colorization_deploy_v2.prototxt](https://github.com/richzhang/colorization/tree/caffe/colorization/models)
    - [colorization_release_v2.caffemodel](https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy)
    - [pts_in_hull.npy](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1)
+
+3. **Organize the files and folders**
+   
+     - Put all these three files into the folder named "model".
+     - Put colorize.py file outside the model folder.
+     - Make a folder "images" and store all black & white images there.
   
 3. **Install Dependencies**
 
